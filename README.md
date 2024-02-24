@@ -3,7 +3,7 @@
 <table>
   <tr>
      <td width="60%">
-       <p align="center"> <img src="https://github.com/ThePherZ/Ardunio/assets/156532472/d48ff357-5daa-4b5b-8496-f415e7aab574" ></img>
+       <p align="center"> <img src="README/1.png" ></img>
     </td>
     <td width="50%"> 
       
@@ -43,7 +43,7 @@ void loop() {
 <table>
   <tr>
      <td width="60%">
-       <p align="center"> <img src="https://github.com/ThePherZ/Ardunio/assets/156532472/14a69cf6-3a9e-475d-86f5-626bbd0595f4"></img>
+       <p align="center"> <img src="README/2.png"></img>
     </td>
     <td width="50%"> 
       
