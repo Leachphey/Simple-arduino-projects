@@ -38,7 +38,7 @@ void loop() {
   </tr>
 </table>
 
-## 2 | Led Yakma (For Döngüsü)
+# 2 | Led Yakma (For Döngüsü)
 
 <table>
   <tr>
@@ -78,10 +78,43 @@ void loop() {
   delay(711);
   digitalWrite(B,LOW);
     
-  }
+ }
 }
 
 ```
+  </td>
+  </tr>
+</table>
+
+# 3 | Analog Led Dim  
+
+<table>
+  <tr>
+     <td width="60%">
+       <p align="center"> <img src="README/3.png" ></img>
+    </td>
+    <td width="50%"> 
+      
+```c++
+int Y = 9;
+
+void setup() {
+ 
+  pinMode(Y,OUTPUT);
+
+}
+
+void loop() {
+  analogWrite(Y,255);
+  delay(777);
+  analogWrite(Y,100);
+  delay(777);
+  analogWrite(Y,0);
+  delay(777);
+ }
+}
+```
+    
   </td>
   </tr>
 </table>
