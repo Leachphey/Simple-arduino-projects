@@ -5,11 +5,10 @@
      <td>
        <p align="center"> <img src="https://github.com/ThePherZ/Ardunio/assets/156532472/d48ff357-5daa-4b5b-8496-f415e7aab574" width="100%"></img>
     </td>
-    <td width="350"> 
+    <td width="100"> 
       
 ```python
     
-#include <Arduino.h>
 void setup() {
 
   pinMode(5,OUTPUT);
@@ -46,7 +45,7 @@ void loop() {
      <td>
        <p align="center"> <img src="https://github.com/ThePherZ/Ardunio/assets/156532472/14a69cf6-3a9e-475d-86f5-626bbd0595f4" width="100%"></img>
     </td>
-    <td width="350"> 
+    <td width="100"> 
       
 ```python
 
