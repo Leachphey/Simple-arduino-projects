@@ -7,7 +7,7 @@
     </td>
     <td width="50%"> 
       
-```python
+```c++
     
 void setup() {
 
@@ -47,7 +47,7 @@ void loop() {
     </td>
     <td width="50%"> 
       
-```python
+```c++
 
 
 void setup() {
