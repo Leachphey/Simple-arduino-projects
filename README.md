@@ -123,8 +123,8 @@ void loop() {
 # 4 | Potansiyometre İle Led Şiddeti Değiştirme + (Serial Monitor)
 <table>
   <tr>
-     <td>
-       <p align="center"> <img src="README/4.png" width="80%" ></img>
+     <td width="80%">
+       <p align="center"> <img src="README/4.png" width="100%" ></img>
     </td>
     <td width="20%"> 
       
