@@ -118,3 +118,39 @@ void loop() {
   </td>
   </tr>
 </table>
+
+
+# 4 | Potansiyometre İle Led Şiddeti Değiştirme + (Serial Monitor)
+<table>
+  <tr>
+     <td width="60%">
+       <p align="center"> <img src="README/4.png" ></img>
+    </td>
+    <td width="50%"> 
+      
+```c++
+int dimled = A4;
+float Volt5Moni;
+
+void setup()
+{
+
+  pinMode(dimled, INPUT);
+  Serial.begin(9600);
+
+}
+
+void loop()
+{
+
+  Volt5Moni = (5./1023.) * (analogRead(dimled));
+  Serial.println(Volt5Moni);
+  delay(777);
+
+}
+
+```
+    
+  </td>
+  </tr>
+</table>
