@@ -123,10 +123,10 @@ void loop() {
 # 4 | Potansiyometre İle Led Şiddeti Değiştirme + (Serial Monitor)
 <table>
   <tr>
-     <td width="60%">
+     <td width="80%">
        <p align="center"> <img src="README/4.png" ></img>
     </td>
-    <td width="50%"> 
+    <td width="20%"> 
       
 ```c++
 int dimled = A4;
