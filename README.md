@@ -1,8 +1,8 @@
-<h1 align="center">Arduino Örnek kod</h1>
+<h1 align="center">Arduino Sample code</h1>
 <div align="center">
 
   
-[Turkish](README.tr.md) | [Mobile](README_Phone.md) 
+[Turkish](README.tr.md) | [Phone Version](README_Phone.md) 
 
 </div>
 
@@ -10,7 +10,7 @@
 <br>
 <br>
 
-# 1 | Led çalıştırma (Basit)
+# 1 | Led operation (Simple)
 
 <table>
   <tr>
@@ -48,7 +48,7 @@ void loop() {
   </tr>
 </table>
 
-# 2 | Led çalıştırma (For döngüsü)
+# 2 | Led operation (For loop)
 
 <table>
   <tr>
@@ -91,7 +91,7 @@ void loop() {
   </tr>
 </table>
 
-# 3 | Analog giriş ile ledin şiddetini değitirme 
+# 3 | Changing the intensity of the led with analog input 
 
 <table>
   <tr>
@@ -123,7 +123,7 @@ void loop() {
   </tr>
 </table>
 
-# 4 | Buton yardımıyla led çalıştırma  
+# 4 | LED operation with button  
 
 <table>
   <tr>
