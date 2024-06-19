@@ -2,7 +2,7 @@
 <div align="center">
 
   
-[Turkish](README.tr.md) | [Mobile](README_Phone.md) | [PC](README.md) 
+[Turkish](README.tr.md) | [Mobile](README_Phone.md) 
 
 </div>
 
