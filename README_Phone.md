@@ -7,7 +7,7 @@
     </td>
     <td width="50%"> 
       
-```c++
+```ino
 void setup() {
 
   pinMode(5, OUTPUT);
@@ -44,7 +44,7 @@ void loop() {
     </td>
     <td width="50%"> 
       
-```c++
+```ino
 void setup() {
 
   pinMode(5, OUTPUT);
@@ -86,7 +86,7 @@ void loop() {
     </td>
     <td width="50%"> 
       
-```c++
+```ino
 int Y = 9;
 
 void setup() {
@@ -118,7 +118,7 @@ void loop() {
     </td>
     <td width="50%"> 
       
-```c++
+```ino
 const int button = 9;
 int buttonState = 0;
 
