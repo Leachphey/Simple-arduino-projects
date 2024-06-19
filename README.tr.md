@@ -2,7 +2,7 @@
 <div align="center">
 
   
-[English](README.md) | [Turkish](README.tr.md) | [Mobile](README_Phone.md) | [PC](README.md) 
+[İngilizce](README.md) | [Telefon Versionu](README_Phone.md) 
 
 </div>
 
