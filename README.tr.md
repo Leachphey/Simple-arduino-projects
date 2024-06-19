@@ -2,7 +2,7 @@
 <div align="center">
 
   
-[İngilizce](README.md) | [Telefon Versionu](README_Phone.md) 
+[İngilizce](README.md) | [Telefon Versionu](README_Phone.tr.md) 
 
 </div>
 
