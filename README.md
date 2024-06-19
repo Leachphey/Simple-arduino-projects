@@ -116,7 +116,7 @@ void loop() {
 <table>
   <tr>
      <td width="60%">
-       <p align="center"> <img src="README/3.png" ></img>
+       <p align="center"> <img src="README/4.png" ></img>
     </td>
     <td width="50%"> 
       
