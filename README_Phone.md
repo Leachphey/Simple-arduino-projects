@@ -1,12 +1,9 @@
 # 1 | Led çalıştırma (Basit)
 
 
-  <tr>
-     <td width="60%">
-       <p align="center"> <img src="README/1.png" ></img>
-    </td>
-    <td width="50%"> 
-      
+  <tr> 
+    <p align="center"> <img src="README/1.png" ></img> 
+    
 ```ino
 void setup() {
 
@@ -31,18 +28,13 @@ void loop() {
   delay(711);
 }
 ```
-    
-  </td>
   </tr>
 
 # 2 | Led çalıştırma (For döngüsü)
 
 
   <tr>
-     <td width="60%">
        <p align="center"> <img src="README/2.png"></img>
-    </td>
-    <td width="50%"> 
       
 ```ino
 void setup() {
@@ -74,17 +66,13 @@ void loop() {
   }
 }
 ```
-  </td>
   </tr>
 
 
 # 3 | Analog giriş ile ledin şiddetini değitirme 
 
   <tr>
-     <td width="60%">
-       <p align="center"> <img src="README/3.png" ></img>
-    </td>
-    <td width="50%"> 
+   <p align="center"> <img src="README/3.png" ></img>
       
 ```ino
 int Y = 9;
@@ -104,8 +92,6 @@ void loop() {
 }
 }
 ```
-    
-  </td>
   </tr>
 
 
@@ -113,10 +99,7 @@ void loop() {
 
 
   <tr>
-     <td width="60%">
        <p align="center"> <img src="README/4.png" ></img>
-    </td>
-    <td width="50%"> 
       
 ```ino
 const int button = 9;
@@ -167,8 +150,6 @@ void loop() {
 }
 
 ```
-    
-  </td>
   </tr>
 
 
