@@ -214,47 +214,50 @@ void setup() {
 
 void loop() {
 
-  potstate = analogRead(pot) + 1;
+  potstate = analogRead(pot);
+  potstate = map(potstate, 0, 1023, 0, 6);
   Serial.println(potstate);
   delay(100);
 
 
-  if (potstate > 1) {
+
+  if (potstate > 0) {
     digitalWrite(3, HIGH);
-  } else if (potstate < 170) {
+  } else if (potstate < 1) {
     digitalWrite(3, LOW);
   }
 
-  if (potstate > 170) {
+  if (potstate > 1) {
     digitalWrite(4, HIGH);
-  } else if (potstate < 340) {
+  } else if (potstate < 2) {
     digitalWrite(4, LOW);
   }
 
-  if (potstate > 340) {
+  if (potstate > 2) {
     digitalWrite(5, HIGH);
-  } else if (potstate < 510) {
+  } else if (potstate < 3) {
     digitalWrite(5, LOW);
   }
 
-  if (potstate > 510) {
+  if (potstate > 3) {
     digitalWrite(6, HIGH);
-  } else if (potstate < 680) {
+  } else if (potstate < 4) {
     digitalWrite(6, LOW);
   }
 
-  if (potstate > 680) {
+  if (potstate > 4) {
     digitalWrite(7, HIGH);
-  } else if (potstate < 850) {
+  } else if (potstate < 5) {
     digitalWrite(7, LOW);
   }
 
-  if (potstate > 850) {
+  if (potstate > 5) {
     digitalWrite(8, HIGH);
-  } else if (potstate < 1024) {
+  } else if (potstate < 6) {
     digitalWrite(8, LOW);
   }
-}  
+}
+ 
 ```
     
   </td>
