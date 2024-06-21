@@ -187,7 +187,7 @@ void loop() {
 </table>
 
 
-# 5 | LED operation with button  
+# 5 | Led control with potentiometer
 
 <table>
   <tr>
@@ -197,7 +197,7 @@ void loop() {
     <td width="50%"> 
       
 ```ino
-  #define pot A0
+#define pot A0
 int potstate = 0;
 
 void setup() {
@@ -217,7 +217,6 @@ void loop() {
   potstate = analogRead(pot) + 1;
   Serial.println(potstate);
   delay(100);
-
 
 
   if (potstate > 1) {
