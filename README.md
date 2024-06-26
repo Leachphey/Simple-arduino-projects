@@ -264,7 +264,7 @@ void loop() {
   </tr>
 </table>
 
-# 6 | Led control with sensors
+# 6 | LED operation with sensors
 
 <table>
   <tr>
