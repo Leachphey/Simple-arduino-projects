@@ -1,4 +1,4 @@
-<h1 align="center">Arduino Sample code</h1>
+<h1 align="center">Simple arduino projects</h1>
 <div align="center">
 
   
