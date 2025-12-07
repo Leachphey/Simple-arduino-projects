@@ -379,9 +379,3 @@ void loop() {
 </table>
 
 
-  
-
-
-
-
-
